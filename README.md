@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Sinister71/Sinister71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Oii, me chamo Thiago Moreira, programador em desenvolvimento 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
