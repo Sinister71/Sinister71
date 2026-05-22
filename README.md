@@ -26,6 +26,12 @@
             title="E-mail para contato" 
             src="https://custom-icon-badges.demolab.com/badge/GMAIL-E61B23?style=for-the-badge&logo=gmail&logoColor=0B5FFF&labelColor=white&color=E61B23"
         /></a>
+  <a href="https://maps.google.com/?q=Mato+Grosso+Brasil" target="_blank">
+       <img 
+            alt="Localização" 
+            title="Mato Grosso, Brasil" 
+            src="https://custom-icon-badges.demolab.com/badge/Mato_Grosso-BRA-95D5B2?style=for-the-badge&logo=location&logoColor=white&labelColor=2D6A4F"
+        /></a>
 </p>
 
 ![Snake animation](https://raw.githubusercontent.com/sinister71/sinister71/output/github-contribution-grid-snake.svg)
